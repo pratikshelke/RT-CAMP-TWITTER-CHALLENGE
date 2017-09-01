@@ -18,6 +18,8 @@ Also, display a search followers box. Add auto-suggest support. That means as so
 When user will click on a follower name, 10 tweets from that follower’s user-timeline will be displayed in same jQuery-slider, without page refresh.
 There will be a download button to download all tweets for logged in user.
 Download can be performed in csv format.
+
 Authors
 Pratik Shelke
+
 Preview on https://finalchalenge.000webhostapp.com
